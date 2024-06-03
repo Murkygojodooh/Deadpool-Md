@@ -22,7 +22,7 @@ global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '꧁༒𝑴𝒖𝒓𝒌𝒚 𝒅𝒆𝒔𝒌ꪶ࿋྄ིᤢꫂ𝑮𝒐𝒋𝒐⁖℘༒' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['237698793862'] // ubah aja pake nomor lu
+global.owner = ['22871227740'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '𝗗𝗘𝗔𝗗𝗣𝗢𝗢𝗟 𝗕𝗨𝗚' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '𝓜𝓻. 𝓜𝓓𝓖' // ubah aja ini nama sticker
